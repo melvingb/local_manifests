@@ -2,10 +2,15 @@
 <manifest>
   <remote name="github-public" fetch="git://github.com" revision="master" />
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
-  <!-- kernel tree-->
+
+  <!-- kernel tree -->
   <project path="kernel/xiaomi/platina" name="nysadev/android_kernel_xiaomi_clover" remote="github-public" revision="mkp"/>
-  <!-- device tree-->
+  <!-- device tree -->
   <project path="device/xiaomi/platina" name="nysadev/android_device_xiaomi_platina" remote="github-private" revision="lineage-p" />
-  <!-- vendor tree-->
+  <!-- vendor tree -->
   <project path="vendor/xiaomi/platina" name="nysadev/android_vendor_xiaomi_platina" remote="github-private" />
+
+  <!-- fix XiaomiDoze -->
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="Lunarixus" revision="lineage-16.0"/>	
+
 </manifest>
