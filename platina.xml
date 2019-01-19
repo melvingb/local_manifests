@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="github-public" fetch="git://github.com"/>
-  <remote  name="github-private" fetch="ssh://git@github.com"/>
+  <remote name="github-public" fetch="git://github.com" revision="master" />
+  <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
   <!-- kernel tree-->
-  <project path="kernel/xiaomi/platina" name="GuaiYiHu/android_kernel_xiaomi_clover" remote="github-public"/>
+  <project path="kernel/xiaomi/platina" name="GuaiYiHu/android_kernel_xiaomi_clover" remote="github-public" revision="mkp"/>
   <!-- device tree-->
   <project path="device/xiaomi/platina" name="nysadev/android_device_xiaomi_platina" remote="github-private" />
   <!-- vendor tree-->
