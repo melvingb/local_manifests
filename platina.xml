@@ -4,7 +4,7 @@
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/platina" name="nysadev/android_kernel_xiaomi_clover" remote="github-public" revision="mkp"/>
+  <project path="kernel/xiaomi/platina" name="nysadev/android_kernel_xiaomi_platina" remote="github-public" revision="mkp"/>
   <!-- device tree -->
   <project path="device/xiaomi/platina" name="nysadev/android_device_xiaomi_platina" remote="github-public" revision="lineage-p" />
   <!-- vendor tree -->
