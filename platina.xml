@@ -6,9 +6,9 @@
   <!-- kernel tree -->
   <project path="kernel/xiaomi/platina" name="nysadev/android_kernel_xiaomi_clover" remote="github-public" revision="mkp"/>
   <!-- device tree -->
-  <project path="device/xiaomi/platina" name="nysadev/android_device_xiaomi_platina" remote="github-private" revision="lineage-p" />
+  <project path="device/xiaomi/platina" name="nysadev/android_device_xiaomi_platina" remote="github-public" revision="lineage-p" />
   <!-- vendor tree -->
-  <project path="vendor/xiaomi/platina" name="nysadev/android_vendor_xiaomi_platina" remote="github-private" />
+  <project path="vendor/xiaomi/platina" name="nysadev/android_vendor_xiaomi_platina" remote="github-public" />
 
   <!-- fix XiaomiDoze -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github-public" revision="lineage-16.0"/>	
