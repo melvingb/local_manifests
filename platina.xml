@@ -3,14 +3,12 @@
   <remote name="github-public" fetch="git://github.com" revision="master" />
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
-  <!-- kernel tree -->
-  <project path="kernel/xiaomi/platina" name="nysadev/android_kernel_xiaomi_platina" remote="github-public" revision="mkp"/>
   <!-- device tree -->
-  <project path="device/xiaomi/platina" name="nysadev/android_device_xiaomi_platina" remote="github-private" revision="lineage-p" />
+  <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina" remote="github-public" revision="lineage-16" />
   <!-- vendor tree -->
-  <project path="vendor/xiaomi/platina" name="nysadev/android_vendor_xiaomi_platina" remote="github-private" />
-
+  <project path="vendor/xiaomi/platina" name="melvingb/android_vendor_xiaomi_platina" remote="github-public" />
+  <!-- kernel tree -->
+  <project path="kernel/xiaomi/platina" name="melvingb/android_kernel_xiaomi_platina" remote="github-public" revision="mkp"/>
   <!-- fix XiaomiDoze -->
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github-public" revision="lineage-16.0"/>	
-
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github-public" revision="lineage-16.0"/>
 </manifest>
