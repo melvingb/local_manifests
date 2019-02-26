@@ -21,4 +21,3 @@
   <!-- fix XiaomiDoze -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github-public" revision="lineage-16.0"/>
 </manifest>
-  
