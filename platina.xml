@@ -5,19 +5,19 @@
 
   <!-- device tree -->
   <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina" remote="github-public" revision="lineage-16" />
-  <project path="device/xiaomi/whyred" name="melvingb/device_xiaomi_tulip" remote="github-public" revision="pie" />
+  <project path="device/xiaomi/tulip" name="melvingb/device_xiaomi_tulip" remote="github-public" revision="pie" />
   <project path="device/xiaomi/whyred" name="melvingb/device_xiaomi_whyred" remote="github-public" revision="mkp" />
   <project path="device/xiaomi/rosy" name="melvingb/device_xiaomi_rosy" remote="github-public" revision="pixysos" />
   
   <!-- vendor tree -->
   <project path="vendor/xiaomi/platina" name="melvingb/android_vendor_xiaomi_platina" remote="github-public" />
-  <project path="vendor/xiaomi/whyred" name="melvingb/vendor_xiaomi_tulip" remote="github-public" revision="pie" />
+  <project path="vendor/xiaomi/tulip" name="melvingb/vendor_xiaomi_tulip" remote="github-public" revision="pie" />
   <project path="vendor/xiaomi/whyred" name="melvingb/vendor_xiaomi_whyred" remote="github-public" revision="r9.0-caf" />
   <project path="vendor/xiaomi/rosy" name="melvingb/android_vendor_xiaomi_rosy" remote="github-public" />
   
   <!-- kernel tree -->
   <project path="kernel/xiaomi/platina" name="melvingb/android_kernel_xiaomi_platina" remote="github-public" revision="mkp"/>
-  <project path="kernel/xiaomi/whyred" name="melvingb/android_kernel_xiaomi_tulip" remote="github-public" revision="mkp"/>
+  <project path="kernel/xiaomi/tulip" name="melvingb/android_kernel_xiaomi_tulip" remote="github-public" revision="mkp"/>
   <project path="kernel/xiaomi/whyred" name="melvingb/kernel_xiaomi_whyred" remote="github-public" revision="pie"/>
   <project path="kernel/xiaomi/rosy" name="LinuxPanda/android_kernel_rosy" remote="github-public" revision="p-318" />
   
