@@ -1,1 +1,1 @@
-## Local manifests for the Xiaomi Mi 8 Lite and Xiaomi Redmi Note 5 (Pro)
+## Local manifests for the Mi 8 Lite, Redmi Note 5 (Pro) and Redmi Note 6 (Pro) 
