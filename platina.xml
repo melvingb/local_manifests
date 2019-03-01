@@ -19,7 +19,7 @@
   <project path="kernel/xiaomi/platina" name="melvingb/android_kernel_xiaomi_platina" remote="github-public" revision="mkp" />
   <project path="kernel/xiaomi/tulip" name="melvingb/android_kernel_xiaomi_tulip" remote="github-public" revision="mkp" />
   <project path="kernel/xiaomi/whyred" name="melvingb/kernel_xiaomi_whyred" remote="github-public" revision="pie" />
-  <project path="kernel/xiaomi/rosy" name="android_kernel_xiaomi_msm8953" remote="github-public" revision="lineage-16.0" />
+  <project path="kernel/xiaomi/rosy" name="melvingb/android_kernel_xiaomi_msm8953" remote="github-public" revision="lineage-16.0" />
   
   <!-- fix XiaomiDoze -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github-public" revision="lineage-16.0"/>
