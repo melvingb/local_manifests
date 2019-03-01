@@ -13,12 +13,12 @@
   <project path="vendor/xiaomi/platina" name="melvingb/android_vendor_xiaomi_platina" remote="github-public" />
   <project path="vendor/xiaomi/tulip" name="melvingb/vendor_xiaomi_tulip" remote="github-public" revision="pie" />
   <project path="vendor/xiaomi/whyred" name="melvingb/vendor_xiaomi_whyred" remote="github-public" revision="r9.0-caf" />
-  <project path="vendor/xiaomi/rosy" name="melvingb/vendor_xiaomi_rosy" remote="github-public" revision="lineage-16.0 />
+  <project path="vendor/xiaomi/rosy" name="melvingb/vendor_xiaomi_rosy" remote="github-public" revision="lineage-16.0" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/platina" name="melvingb/android_kernel_xiaomi_platina" remote="github-public" revision="mkp"/>
-  <project path="kernel/xiaomi/tulip" name="melvingb/android_kernel_xiaomi_tulip" remote="github-public" revision="mkp"/>
-  <project path="kernel/xiaomi/whyred" name="melvingb/kernel_xiaomi_whyred" remote="github-public" revision="pie"/>
+  <project path="kernel/xiaomi/platina" name="melvingb/android_kernel_xiaomi_platina" remote="github-public" revision="mkp" />
+  <project path="kernel/xiaomi/tulip" name="melvingb/android_kernel_xiaomi_tulip" remote="github-public" revision="mkp" />
+  <project path="kernel/xiaomi/whyred" name="melvingb/kernel_xiaomi_whyred" remote="github-public" revision="pie" />
   <project path="kernel/xiaomi/rosy" name="android_kernel_xiaomi_msm8953" remote="github-public" revision="lineage-16.0" />
   
   <!-- fix XiaomiDoze -->
