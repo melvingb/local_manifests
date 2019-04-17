@@ -4,7 +4,7 @@
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
   <!-- device tree -->
-  <project path="device/xiaomi/platina" name="vortex-devices/device_xiaomi_platina" remote="github-public" revision="aosp-kernel" />
+  <project path="device/xiaomi/platina" name="vortex-devices/device_xiaomi_platina" remote="github-public" revision="vortex" />
   
   <!-- vendor tree -->
   <project path="vendor/xiaomi/platina" name="melvingb/android_vendor_xiaomi_platina" remote="github-public" />
