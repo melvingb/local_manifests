@@ -10,6 +10,6 @@
   <project path="vendor/xiaomi/platina" name="melvingb/android_vendor_xiaomi_platina" remote="github-public" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/platina" name="melvingb/android_kernel_xiaomi_platina" remote="github-public" revision="mkp" />
+  <project path="kernel/xiaomi/platina" name="nysadev/lyra-4.4" remote="github-public" revision="stable" />
   
 </manifest>
