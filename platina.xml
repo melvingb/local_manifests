@@ -4,12 +4,12 @@
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
   <!-- device tree -->
-  <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina" remote="github-public" revision="vortex" />
+  <project path="device/xiaomi/platina" name="nysadev/device_xiaomi_platina" remote="github-public" revision="lineage-16.0" />
   
   <!-- vendor tree -->
-  <project path="vendor/xiaomi/platina" name="melvingb/android_vendor_xiaomi_platina" remote="github-public" />
+  <project path="vendor/xiaomi/platina" name="nysadev/vendor_xiaomi_platina" remote="github-public" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/platina" name="melvingb/android_kernel_xiaomi_platina" remote="github-public" revision="mkp" />
+  <project path="kernel/xiaomi/platina" name="nysadev/lyra-4.4" remote="github-public" revision="pie" />
   
 </manifest>
