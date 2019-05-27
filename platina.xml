@@ -7,9 +7,9 @@
   <project path="device/xiaomi/platina" name="vortex-devices/device_xiaomi_platina" remote="github-public" revision="vortex-new" />
   
   <!-- vendor tree -->
-  <project path="vendor/xiaomi/platina" name="melvingb/android_vendor_xiaomi_platina" remote="github-public" />
+  <project path="vendor/xiaomi/platina" name="nysadev/vendor_xiaomi_platina" remote="github-public" revision="pie" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/platina" name="melvingb/android_kernel_xiaomi_platina" remote="github-public" revision="mkp" />
+  <project path="kernel/xiaomi/platina" name="nysadev/acrux-platina" remote="github-public" revision="pie" />
   
 </manifest>
