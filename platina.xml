@@ -4,10 +4,10 @@
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
   <!-- device tree -->
-  <project path="device/xiaomi/platina" name="vortex-devices/device_xiaomi_platina" remote="github-public" revision="pie" />
+  <project path="device/xiaomi/platina" name="nysadev/device_xiaomi_platina" remote="github-public" revision="lineage-16.0" />
   
   <!-- vendor tree -->
-  <project path="vendor/xiaomi/platina" name="vortex-devices/vendor_xiaomi_platina" remote="github-public" revision="pie" />
+  <project path="vendor/xiaomi/platina" name="nysadev/vendor_xiaomi_platina" remote="github-public" revision="master" />
   
   <!-- kernel tree -->
   <project path="kernel/xiaomi/platina" name="nysadev/acrux_xiaomi_platina" remote="github-public" revision="pie" />
