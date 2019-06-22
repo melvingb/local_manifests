@@ -12,7 +12,7 @@
   <project path="vendor/xiaomi/platina" name="vortex-devices/vendor_xiaomi_platina" remote="github-public" revision="pie" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/lavender" name="vortex-devices/kernel_xiaomi_lavender" remote="github-public" revision="pie" />
+  <project path="kernel/xiaomi/lavender" name="catuva21/kernel_RN7" remote="github-public" revision="pie-stable" />
   <project path="kernel/xiaomi/platina" name="melvingb/acrux_xiaomi_platina" remote="github-public" revision="pie" />
   
 </manifest>
