@@ -4,14 +4,18 @@
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
   <!-- device tree -->
+  <project path="device/xiaomi/msm8956-common" name="vortex-devices/msm8956-common" remote="github-public" revision="pie" />
+  <project path="device/xiaomi/kenzo" name="vortex-devices/device_xiaomi_kenzo" remote="github-public" revision="pie" />
   <project path="device/xiaomi/lavender" name="vortex-devices/device_xiaomi_lavender" remote="github-public" revision="pie" />
   <project path="device/xiaomi/platina" name="vortex-devices/device_xiaomi_platina" remote="github-public" revision="pie" />
   
   <!-- vendor tree -->
+  <project path="vendor/xiaomi/kenzo" name="vortex-devices/vendor_xiaomi_kenzo" remote="github-public" revision="pie" />
   <project path="vendor/xiaomi/lavender" name="vortex-devices/vendor_xiaomi_lavender" remote="github-public" revision="pie" />
   <project path="vendor/xiaomi/platina" name="vortex-devices/vendor_xiaomi_platina" remote="github-public" revision="pie" />
   
   <!-- kernel tree -->
+  <project path="kernel/xiaomi/msm8956" name="baalajimaestro/android_kernel_xiaomi_msm8956" remote="github-public" revision="pie" />
   <project path="kernel/xiaomi/lavender" name="vortex-devices/kernel_xiaomi_lavender" remote="github-public" revision="pie" />
   <project path="kernel/xiaomi/platina" name="melvingb/kernel_xiaomi_platina" remote="github-public" revision="pie" />
   
