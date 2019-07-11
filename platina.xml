@@ -13,6 +13,6 @@
   
   <!-- kernel tree -->
   <project path="kernel/xiaomi/lavender" name="vortex-devices/Evira" remote="github-public" revision="master" />
-  <project path="kernel/xiaomi/platina" name="nysadev/acrux" remote="github-public" revision="pie" />
+  <project path="kernel/xiaomi/platina" name="melvingb/kernel_xiaomi_platina" remote="github-public" revision="pie" />
   
 </manifest>
