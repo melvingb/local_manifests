@@ -10,5 +10,5 @@
   <project path="vendor/xiaomi/platina" name="nysadev/vendor_xiaomi_platina" remote="github-public" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/platina" name="nysadev/acrux" remote="github-public" revision="pie" />
+  <project path="kernel/xiaomi/platina" name="melvingb/kernel_xiaomi_platina" remote="github-public" revision="pie" />
 </manifest>
