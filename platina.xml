@@ -17,6 +17,6 @@
   <!-- kernel tree -->
   <project path="kernel/xiaomi/msm8956" name="vortex-devices/Escrima_kernel_xiaomi_msm8956" remote="github-public" revision="pie" />
   <project path="kernel/xiaomi/lavender" name="vortex-devices/kernel_xiaomi_lavender" remote="github-public" revision="pie" />
-  <project path="kernel/xiaomi/platina" name="melvingb/kernel_xiaomi_platina" remote="github-public" revision="pie" />
+  <project path="kernel/xiaomi/platina" name="Ancient-Project/kernel_xiaomi_platina" remote="github-public" revision="pie" />
   
 </manifest>
