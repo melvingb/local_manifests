@@ -7,7 +7,7 @@
   <project path="device/xiaomi/msm8956-common" name="vortex-devices/device_xiaomi_msm8956-common" remote="github-public" revision="pie" />
   <project path="device/xiaomi/kenzo" name="vortex-devices/device_xiaomi_kenzo" remote="github-public" revision="pie" />
   <project path="device/xiaomi/lavender" name="vortex-devices/device_xiaomi_lavender" remote="github-public" revision="pie" />
-  <project path="device/xiaomi/platina" name="vortex-devices/device_xiaomi_platina" remote="github-public" revision="pie" />
+  <project path="device/xiaomi/platina" name="vortex-devices/device_xiaomi_platina" remote="github-public" revision="vortex" />
   
   <!-- vendor tree -->
   <project path="vendor/xiaomi/kenzo" name="vortex-devices/proprietary_vendor_xiaomi" remote="github-public" revision="pie" />
