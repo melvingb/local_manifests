@@ -4,19 +4,12 @@
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
   <!-- device tree -->
-  <project path="device/xiaomi/msm8956-common" name="vortex-devices/device_xiaomi_msm8956-common" remote="github-public" revision="pie" />
-  <project path="device/xiaomi/kenzo" name="vortex-devices/device_xiaomi_kenzo" remote="github-public" revision="pie" />
-  <project path="device/xiaomi/lavender" name="vortex-devices/device_xiaomi_lavender" remote="github-public" revision="pie" />
-  <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina" remote="github-public" revision="pie" />
+  <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina" remote="github-public" revision="revenge" />
   
   <!-- vendor tree -->
-  <project path="vendor/xiaomi/kenzo" name="vortex-devices/proprietary_vendor_xiaomi" remote="github-public" revision="pie" />
-  <project path="vendor/xiaomi/lavender" name="vortex-devices/vendor_xiaomi_lavender" remote="github-public" revision="pie" />
   <project path="vendor/xiaomi/platina" name="melvingb/vendor_xiaomi_platina" remote="github-public" revision="pie" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/msm8956" name="vortex-devices/Escrima_kernel_xiaomi_msm8956" remote="github-public" revision="pie" />
-  <project path="kernel/xiaomi/lavender" name="vortex-devices/kernel_xiaomi_lavender" remote="github-public" revision="pie" />
   <project path="kernel/xiaomi/platina" name="RaphielGang/acrux_kernel_xiaomi_sdm660" remote="github-public" revision="pie" />
   
 </manifest>
