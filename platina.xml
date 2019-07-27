@@ -6,7 +6,7 @@
   <!-- device tree -->
   <project path="device/xiaomi/msm8956-common" name="vortex-devices/device_xiaomi_msm8956-common" remote="github-public" revision="pie" />
   <project path="device/xiaomi/kenzo" name="vortex-devices/device_xiaomi_kenzo" remote="github-public" revision="pie" />
-  <project path="device/xiaomi/lavender" name="vortex-devices/device_xiaomi_lavender" remote="github-public" revision="pie" />
+  <project path="device/xiaomi/lavender" name="vortex-devices/device_xiaomi_lavender" remote="github-public" revision="rebase" />
   <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina" remote="github-public" revision="pie" />
   
   <!-- vendor tree -->
@@ -16,7 +16,7 @@
   
   <!-- kernel tree -->
   <project path="kernel/xiaomi/msm8956" name="vortex-devices/Escrima_kernel_xiaomi_msm8956" remote="github-public" revision="pie" />
-  <project path="kernel/xiaomi/lavender" name="vortex-devices/kernel_xiaomi_lavender" remote="github-public" revision="pie" />
+  <project path="kernel/xiaomi/lavender" name="vortex-devices/vortex-devices/android_kernel_xiaomi_lavender" remote="github-public" revision="aosp-pie" />
   <project path="kernel/xiaomi/platina" name="RaphielGang/acrux_kernel_xiaomi_sdm660" remote="github-public" revision="pie" />
   
 </manifest>
