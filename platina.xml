@@ -4,11 +4,11 @@
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
   <!-- device tree -->
-  <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina" remote="github-public" revision="derpfest" />
+  <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina" remote="github-public" revision="aosmp" />
   
   <!-- vendor tree -->
-  <project path="vendor/xiaomi/platina" name="AOSiP-Devices/proprietary_vendor_xiaomi_platina" remote="github-public" revision="pie" />
+  <project path="vendor/xiaomi/platina" name="melvingb/vendor_xiaomi_platina" remote="github-public" revision="pie" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/platina" name="AOSiP-Devices/kernel_xiaomi_platina" remote="github-public" revision="pie" />
+  <project path="kernel/xiaomi/platina" name="Ancient-Project/kernel_xiaomi_platina" remote="github-public" revision="pie" />
 </manifest>
