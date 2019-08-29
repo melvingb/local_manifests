@@ -11,4 +11,7 @@
   
   <!-- kernel tree -->
   <project path="kernel/xiaomi/platina" name="Ancient-Project/kernel_xiaomi_platina" remote="github-public" revision="pie" />
+
+  <!-- fix XiaomiDoze -->
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github-public" revision="lineage-16.0"/>  
 </manifest>
