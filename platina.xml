@@ -4,15 +4,12 @@
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
   <!-- device tree -->
-  <project path="device/xiaomi/lavender" name="vortex-devices/device_xiaomi_lavender" remote="github-public" revision="pie" />
-  <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina" remote="github-public" revision="pie" />
+  <project path="device/xiaomi/platina" name="vortex-devices/device_xiaomi_platina" remote="github-public" revision="pie" />
   
   <!-- vendor tree -->
-  <project path="vendor/xiaomi/lavender" name="vortex-devices/vendor_xiaomi_lavender" remote="github-public" revision="pie" />
   <project path="vendor/xiaomi/platina" name="melvingb/vendor_xiaomi_platina" remote="github-public" revision="pie" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/lavender" name="vortex-devices/android_kernel_xiaomi_lavender" remote="github-public" revision="aosp-pie" />
-  <project path="kernel/xiaomi/platina" name="vortex-devices/acrux_kernel_xiaomi_sdm660" remote="github-public" revision="pie" />
+  <project path="kernel/xiaomi/platina" name="Ancient-Project/kernel_xiaomi_platina" remote="github-public" revision="pie" />
   
 </manifest>
