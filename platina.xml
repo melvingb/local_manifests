@@ -4,15 +4,12 @@
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
   <!-- device tree -->
-  <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina-q" remote="github-public" revision="pe10-final" />
+  <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina-q" remote="github-public" revision="ten" />
   
   <!-- vendor tree -->
-  <project path="vendor/xiaomi/platina" name="melvingb/vendor_xiaomi_platina" remote="github-public" revision="ten" />
+  <project path="vendor/xiaomi/platina" name="melvingb/vendor_xiaomi_platina" remote="github-public" revision="q" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/platina" name="rochadev/kernel_xiaomi_platina" remote="github-public" revision="Q" />
-
-  <!-- Prebuilts tree -->
-  <project path="prebuilts/gcc/linux-x86/aarch64/gcc-9" name="kdrag0n/aarch64-elf-gcc" remote="github-public" revision="9.x" />
+  <project path="kernel/xiaomi/platina" name="nysascape/acrux" remote="github-public" revision="staging" />
   
 </manifest>
