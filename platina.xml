@@ -12,4 +12,7 @@
   <!-- kernel tree -->
   <project path="kernel/xiaomi/platina" name="nysascape/acrux" remote="github-public" revision="staging" />
   
+  <!-- Prebuilts tree -->
+  <project path="prebuilts/gcc/linux-x86/aarch64/gcc-9" name="kdrag0n/aarch64-elf-gcc" remote="github-public" revision="9.x" />  
+  
 </manifest>
