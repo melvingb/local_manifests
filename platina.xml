@@ -10,7 +10,7 @@
   <project path="vendor/xiaomi/platina" name="melvingb/vendor_xiaomi_platina" remote="github-public" revision="q" />
   
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/platina" name="nysascape/acrux" remote="github-public" revision="staging" />
+  <project path="kernel/xiaomi/platina" name="nysascape/kernel_xiaomi_platina_10" remote="github-public" revision="kernel-4.4" />
   
   <!-- Prebuilts tree -->
   <project path="prebuilts/gcc/linux-x86/aarch64/gcc-9" name="kdrag0n/aarch64-elf-gcc" remote="github-public" revision="9.x" />  
