@@ -4,7 +4,7 @@
   <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
 
   <!-- device tree -->
-  <project path="device/xiaomi/platina" name="melvingb/device_xiaomi_platina-q" remote="github-public" revision="ten" />
+  <project path="device/xiaomi/platina" name="revolutionaosp/device_xiaomi_platina" remote="github-public" revision="ten" />
   
   <!-- vendor tree -->
   <project path="vendor/xiaomi/platina" name="melvingb/vendor_xiaomi_platina" remote="github-public" revision="q" />
