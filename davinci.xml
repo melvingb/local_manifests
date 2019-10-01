@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="caf" fetch="https://source.codeaurora.org/quic/la/" review="codeaurora.org"/>
+  <remote name="github-public" fetch="git://github.com" revision="master" />
+  <remote name="github-private" fetch="ssh://git@github.com" revision="master" />
+  
+  <project remote="caf" name="platform/vendor/qcom-opensource/core-utils" path="vendor/qcom/opensource/core-utils" revision="qcom-devices.lnx.5.0.r2-rel" />
+  <project name="melvingb/device_xiaomi_davinci" path="device/xiaomi/davinci" remote="public" revision="vortex" />
+  <project name="melvingb/device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" remote="public" revision="vortex" />
+  <project name="melvingb/android_kernel_xiaomi_davinci" path="kernel/xiaomi/davinci" remote="public" revision="vortex" />
+  <project name="melvingb/vendor_xiaomi" path="vendor/xiaomi" remote="public" revision="vortex" />
+</manifest>
